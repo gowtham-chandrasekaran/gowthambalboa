@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthambalboa&label=Profile%20views&color=17a9e8&style=plastic" alt="gowthambalboa" /> </p>
 
-- 📖 I’m currently pursuing MS in Computer Science in **San Jose State University**
+- 📖 I’m currently pursuing MS in Computer Science at **San Jose State University**
 
 - 📫 How to reach me **gowtham6309@gmail.com**
 
