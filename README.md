@@ -1,7 +1,6 @@
 <h1 align="center">Hola amigos 🤘🏼 Welcome to my profile!</h1>
 <h3 align="center">Data Science enthusiast | Full Stack web developer | Digital Marketer | Photographer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthambalboa&label=Profile%20views&color=17a9e8&style=plastic" alt="gowthambalboa" /> </p>
 
 - 📖 I’m currently planning to pursue MS in Computer Science at **San Jose State University**
 
@@ -26,3 +25,4 @@
 
 <h3 align="left">Summary:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowthambalboa&show_icons=true&locale=en" alt="gowthambalboa" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthambalboa&label=Profile%20views&color=17a9e8&style=plastic" alt="gowthambalboa" /> </p>
