@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowthambalboa&label=Profile%20views&color=17a9e8&style=plastic" alt="gowthambalboa" /> </p>
 
-- 📖 I’m currently pursuing MS in Computer Science at **San Jose State University**
+- 📖 I’m currently planning to pursue MS in Computer Science at **San Jose State University**
 
 - 💻 I have 2 years of work experience as a full stack web-developer and digital marketing analyst from **Tata Consultancy Services**
 
+- 💻 I am currently working on **data science and analytics projects.**
+
 - 📫 How to reach me **gowtham6309@gmail.com**
 
-- ⚡ Fun fact **I just started using GitHub.**
+- ⚡ Fun fact: **I just started using GitHub.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
