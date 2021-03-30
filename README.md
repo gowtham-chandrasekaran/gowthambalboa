@@ -1,5 +1,5 @@
 <h1 align="center">Hola amigos 🤘🏼 Welcome to my profile!</h1>
-<h3 align="center">Data Science enthusiast | Full Stack web developer | Digital Marketer | Photographer</h3>
+<h3 align="center">Data Science enthusiast | Full Stack web developer | Digital Marketing Analyst | Photographer</h3>
 
 
 - 📖 I’m currently planning to pursue MS in Computer Science at **San Jose State University**
