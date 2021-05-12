@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact: **I just started using GitHub.**
 
+- <a href="#">Frames and Pages</a>: Visit my instagram page where I review and analyse books and movies. 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gowtham-c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gowtham-c" height="30" width="40" /></a>
