@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: **I just started using GitHub.**
 
-- <a href="#">Frames and Pages</a>: Visit my instagram page where I review and analyse books and movies. 
+- <a href="https://www.instagram.com/frames.and.pages/">Frames and Pages</a>: Visit my instagram page where I review and analyse books and movies. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
