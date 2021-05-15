@@ -4,7 +4,7 @@
 
 - 📖 I’m currently planning to pursue MS in Computer Science at **San Jose State University**
 
-- 💻 I have 2 years of work experience as a full stack web-developer and digital marketing analyst from **Tata Consultancy Services**
+- 💼 I have 2 years of work experience as a full stack web-developer and digital marketing analyst from **Tata Consultancy Services**
 
 - 💻 I am currently working on **data science and analytics projects.**
 
