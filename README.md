@@ -14,7 +14,7 @@
 
 - <a href="https://www.instagram.com/frames.and.pages/" target="blank">Frames and Pages</a>: Visit my instagram page where I review and analyse books and movies.
 
-- You can also visit the <a href="framesandpages.netlify.com">website</a> to see the blog. 
+- You can also visit the <a href="https://www.framesandpages.netlify.com">website</a> to see the blog. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
