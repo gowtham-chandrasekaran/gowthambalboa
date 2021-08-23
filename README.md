@@ -2,7 +2,7 @@
 <h3 align="center">Data Science enthusiast | Full Stack web developer | Digital Marketing Analyst | Photographer</h3>
 
 
-- 📖 I’m currently planning to pursue MS in Computer Science at **San Jose State University**
+- 📖 I’m currently pursuing MS in Computer Science at **San Jose State University**
 
 - 💼 I have 2 years of work experience as a full stack web-developer and digital marketing analyst from **Tata Consultancy Services**
 
