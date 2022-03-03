@@ -4,13 +4,13 @@
 
 - 📖 I’m currently pursuing MS in Computer Science at **San Jose State University**
 
+- 📖 I’m looking for **summer 2022 internship opportunities.**
+
 - 💼 I have 2 years of work experience as a full stack web-developer and digital marketing analyst from **Tata Consultancy Services**
 
 - 💻 I am currently working on **data science and analytics projects.**
 
 - 📫 How to reach me **gowtham6309@gmail.com**
-
-- ⚡ Fun fact: **I just started using GitHub.**
 
 - <a href="https://www.instagram.com/frames.and.pages/" target="blank">Frames and Pages</a>: Visit my instagram page where I review and analyse books and movies.
 
