@@ -2,7 +2,7 @@
 <h3 align="center">Data Science enthusiast | Full Stack web developer | Digital Marketing Analyst | Photographer</h3>
 
 
-- 📖 I’m currently pursuing MS in Computer Science at **San Jose State University** and I’m looking for **summer 2022 internship opportunities.**
+- 📖 I’m currently pursuing MS in Computer Science at **San Jose State University** and I’m looking for **full time opportunities.**
 
 - 💼 I have 2 years of work experience as a Software Engineer at **Tata Consultancy Services**
 
